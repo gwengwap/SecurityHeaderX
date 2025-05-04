@@ -1,0 +1,57 @@
+# ENHANCED SECURITY DISCLAIMER
+
+## MIT License
+
+Copyright (c) 2025 [911Abaddon]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+## Security Tool Specific Disclaimer
+
+### ASSUMPTION OF RISK
+By using SecurityHeaderX, you acknowledge and agree that:
+
+1. No security tool, including this one, can guarantee complete protection against all security threats.
+2. This tool is provided to assist in identifying potential security header issues but is not a comprehensive security solution.
+3. You remain solely responsible for the overall security of your systems, applications, and data.
+4. You should use this tool as part of a broader security strategy, not as your only security measure.
+
+### NO GUARANTEE OF SECURITY
+SecurityHeaderX does not guarantee that:
+- Your systems will be secure against all threats if you implement the recommended changes
+- The tool will identify all possible security vulnerabilities
+- The recommendations provided will be appropriate for your specific environment
+
+### LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE AUTHORS, COPYRIGHT HOLDERS, OR CONTRIBUTORS OF SECURITYHEADERX BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO):
+
+- Security breaches or intrusions
+- Data loss or data breaches
+- Business interruption
+- Loss of profits or revenue
+- System damage or malfunction
+- Any other damages arising from the use of or inability to use the software
+
+THIS LIMITATION APPLIES REGARDLESS OF THE CAUSE AND REGARDLESS OF THE THEORY OF LIABILITY, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR OTHERWISE, EVEN IF THE AUTHORS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+### DOCUMENTATION AND UPDATES
+- The documentation and recommendations provided with SecurityHeaderX reflect current security best practices at the time of release.
+- Security standards evolve over time, and the authors make no guarantee that the recommendations will remain current indefinitely.
+- Users are responsible for staying informed about security best practices and updating their configurations accordingly.
+
+### NO PROFESSIONAL SERVICES
+- This tool does not constitute professional security services, consultation, or advice.
+- For comprehensive security assessments, consider engaging with qualified security professionals.
+
+### ACCEPTANCE OF TERMS
+By downloading, installing, or using SecurityHeaderX, you acknowledge that you have read, understood, and agree to be bound by this disclaimer.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
