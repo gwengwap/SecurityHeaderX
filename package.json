@@ -1,0 +1,41 @@
+{
+  "name": "web-security-tool",
+  "version": "1.0.0",
+  "description": "A comprehensive web security analysis tool",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "start:api": "node api/index.js",
+    "scan": "node index.js",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "engines": {
+    "node": ">=14.16"
+  },
+  "keywords": [
+    "security",
+    "headers",
+    "web",
+    "scanner",
+    "http",
+    "tls",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "chalk": "^5.4.1",
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.4",
+    "nock": "^13.5.4"
+  }
+}

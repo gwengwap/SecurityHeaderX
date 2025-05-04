@@ -1,0 +1,72 @@
+Web-Security-Header/
+├── api/
+│   ├── controllers/
+│   ├── middleware/
+│   └── routes/
+│       └── scan.js
+├── cli/
+│   ├── commands/
+│   │   └── scan.js
+│   ├── helpers/
+│   └── index.js
+├── config/
+│   ├── compliance/
+│   │   ├── nist.js
+│   │   ├── owasp.js
+│   │   └── pci.js
+│   ├── default.js
+│   └── scan-profiles/
+├── docs/
+│   ├── api/
+│   ├── guides/
+│   ├── headers/
+│   └── README.md
+├── src/
+│   ├── analyzers/
+│   │   ├── cookie-analyzer.js
+│   │   └── csp-analyzer.js
+│   ├── api/
+│   │   └── rest-headers.js
+│   ├── compliance/
+│   │   └── owasp-mapper.js
+│   ├── core/
+│   │   ├── http-client.js
+│   │   ├── plugin-manager.js
+│   │   └── scanner.js
+│   ├── headers/
+│   │   ├── advanced.js
+│   │   ├── cors.js
+│   │   ├── cookies.js
+│   │   ├── disclosure.js
+│   │   └── essential.js
+│   ├── integrations/
+│   │   ├── ci-cd/
+│   │   ├── issue-trackers/
+│   │   └── notification/
+│   ├── remediation/
+│   │   ├── apache.js
+│   │   ├── code-snippets/
+│   │   └── nginx.js
+│   ├── reports/
+│   │   ├── console-report.js
+│   │   ├── html-report.js
+│   │   └── json-report.js
+│   ├── tls/
+│   │   ├── certificate.js
+│   │   ├── ciphers.js
+│   │   └── protocols.js
+│   └── utils/
+│       └── logger.js
+├── tests/
+│   ├── fixtures/
+│   ├── integration/
+│   └── unit/
+│       └── header-tests.js
+├── ui/
+│   ├── assets/
+│   ├── components/
+│   │   └── Dashboard.js
+│   └── pages/
+├── index.js
+├── README.md
+└── package.json

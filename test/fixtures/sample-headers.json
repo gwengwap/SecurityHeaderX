@@ -1,0 +1,22 @@
+{
+  "secure": {
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline';",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY",
+    "x-xss-protection": "1; mode=block",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "permissions-policy": "geolocation=(), microphone=(), camera=()"
+  },
+  "insecure": {
+    "server": "nginx/1.18.0",
+    "x-powered-by": "Express",
+    "content-type": "text/html; charset=utf-8"
+  },
+  "mixed": {
+    "strict-transport-security": "max-age=31536000",
+    "content-security-policy": "default-src 'self'",
+    "server": "nginx/1.18.0",
+    "x-powered-by": "Express"
+  }
+} 
